@@ -53,6 +53,29 @@ To run the project locally:
 ## Install dependencies
 - npm install
 
+
+
+
+
+
+## ⚙️ Installation and Setup
+To run the project locally:
+
+1. **Clone the repository**
+   ```bash
+  https://github.com/MohmmadMazid/M_sury_Restaurant.git
+
+## Navigate to the project folder
+-  cd   M_sury_Restaurant
+
+## Install dependencies
+- npm install
+
+## Start the development server
+
+- npm run dev
+
+
 ## Start the development server
 
 - npm run dev
