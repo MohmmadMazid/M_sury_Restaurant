@@ -23,7 +23,46 @@ This project includes a home page, menu, about section, and contact page , team 
 - \*\*CS
 - **JavaScript (ES6+)**
 
----
+
+
+
+## ⚙️ Installation and Setup
+To run the project locally:
+
+1. **Clone the repository**
+   ```bash
+  https://github.com/MohmmadMazid/M_sury_Restaurant.git
+
+## Navigate to the project folder
+-  cd   M_sury_Restaurant
+
+## Install dependencies
+- npm install
+
+
+## ⚙️ Installation and Setup
+To run the project locally:
+
+1. **Clone the repository**
+   ```bash
+  https://github.com/MohmmadMazid/M_sury_Restaurant.git
+
+## Navigate to the project folder
+-  cd   M_sury_Restaurant
+
+## Install dependencies
+- npm install
+
+## Start the development server
+
+- npm run dev
+
+
+## Start the development server
+
+- npm run dev
+
+
 
 ## 📂 Folder Structure
 
@@ -38,46 +77,3 @@ restaurant-website/
 │-- package.json      # Dependencies and scripts
 │-- README.md         # Project documentation
 
----
-
-## ⚙️ Installation and Setup
-To run the project locally:
-
-1. **Clone the repository**
-   ```bash
-  https://github.com/MohmmadMazid/M_sury_Restaurant.git
-
-## Navigate to the project folder
--  cd   M_sury_Restaurant
-
-## Install dependencies
-- npm install
-
-
-
-
-
-
-## ⚙️ Installation and Setup
-To run the project locally:
-
-1. **Clone the repository**
-   ```bash
-  https://github.com/MohmmadMazid/M_sury_Restaurant.git
-
-## Navigate to the project folder
--  cd   M_sury_Restaurant
-
-## Install dependencies
-- npm install
-
-## Start the development server
-
-- npm run dev
-
-
-## Start the development server
-
-- npm run dev
-
-````
