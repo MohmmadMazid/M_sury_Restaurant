@@ -20,7 +20,7 @@ This project includes a home page, menu, about section, and contact page , team 
 
 - **React** (Frontend library)
 - **React Router DOM** (Routing)
-- \*\*CS
+- **CSS
 - **JavaScript (ES6+)**
 
 
